@@ -438,11 +438,13 @@
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/CraftResourcesIcons/Textures/Tex_wood_11_b.uasset",
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/CraftResourcesIcons/Textures/Tex_wood_12.uasset",
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/CraftResourcesIcons/Textures/Tex_wood_12_b.uasset",
-				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/DataAssets/Items/DA_Stone.uasset",
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/Items/DA_Stone.uasset",
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/Structures/S_InventorySlot.uasset",
 				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/BPC_Inventory.uasset",
-				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/Library/BFL_Inventory.uasset",
+				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/Interfaces/BPI_Assets.uasset",
+				"E:/Unreal Engine Projects/GitHub/InventorySystem/InventorySystem/Content/InventorySystem/DataAssets/Items/DA_Stone.uasset"
 			]
 		}
 	]
